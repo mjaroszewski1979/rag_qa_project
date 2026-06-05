@@ -32,6 +32,7 @@ my-rag-qa-project/
 │   ├── Cat_C_Out_of_Context.csv              # Safe refusal & anti-hallucination verification
 │   └── Cat_D_Adversarial_Boundary.csv        # Trick questions and edge cases
 └── README.md                                 # Project documentation
+```text
 
 ## 🧪 Test Suite Architecture (Gold Dataset)
 
