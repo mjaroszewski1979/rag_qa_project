@@ -12,7 +12,7 @@ This framework utilizes banking documentation (**HSBC Standard Terms and Conditi
 
 ---
 
-## 📌 Project Overview & Objective
+## Project Overview & Objective
 
 The rapid adoption of AI assistants in banking requires rigorous validation to prevent financial and legal liabilities caused by AI hallucinations or false refusals. 
 
@@ -22,7 +22,7 @@ This project establishes a structured **Gold Dataset** (benchmark database) acro
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 my-rag-qa-project/
@@ -36,7 +36,7 @@ my-rag-qa-project/
 └── README.md                                 # Project documentation
 ```
 
-## 🧪 Test Suite Architecture (Gold Dataset)
+## Test Suite Architecture (Gold Dataset)
 
 The test cases are divided into a matrix designed to expose specific LLM vulnerabilities:
 
@@ -49,7 +49,7 @@ The test cases are divided into a matrix designed to expose specific LLM vulnera
 
 ---
 
-## 📊 Defect Tracking & Key Insights (RCA)
+## Defect Tracking & Key Insights (RCA)
 
 During framework execution, defects are caught and logged systematically. A critical defect pattern identified during evaluation:
 
@@ -59,7 +59,7 @@ During framework execution, defects are caught and logged systematically. A crit
 
 ---
 
-## 🚀 How to Execute This Benchmark
+## How to Execute This Benchmark
 
 1. **Load Knowledge Base:** Inject the PDF file from the `data/` folder into your RAG platform (e.g., Google NotebookLM / Gemini Sandbox).
 2. **Deploy Prompts:** Run the inputs located in the `Prompt_Input` columns from the `test-suites/*.csv` files sequentially.
