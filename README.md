@@ -3,8 +3,8 @@
 # automated-rag-qa-framework
 
 [![QA - RAG Evaluation](https://img.shields.io/badge/QA-RAG%20Evaluation-white.svg)](#)
-[![Testing Framework - Black Box](https://img.shields.io/badge/Methodology-Black%20Box%20%26%20Boundary-orange.svg)](#)
-[![Status - Production Ready](https://img.shields.io/badge/Status-Completed-green.svg)](#)
+[![Testing Framework - Black Box](https://img.shields.io/badge/Methodology-Black%20Box%20%26%20Boundary-white.svg)](#)
+[![Status - Production Ready](https://img.shields.io/badge/Status-Completed-white.svg)](#)
 
 A comprehensive, production-grade Quality Assurance benchmark suite designed to evaluate the factual accuracy, synthesis capabilities, and hallucination resistance of Retrieval-Augmented Generation (RAG) systems. 
 
