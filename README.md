@@ -40,10 +40,10 @@ The test cases are divided into a matrix designed to expose specific LLM vulnera
 
 | Category | Test Type | Focus / Target Vulnerability | Sample Objective |
 | :--- | :--- | :--- | :--- |
-| **Category A** | In-Context Direct | Entity Extraction & Grounding | Verify exact retrieval of deadlines, interest day-counts (360/365), and addresses. |
-| **Category B** | In-Context Synthesis | Cross-Clause Reasoning | Validate if the model can link multiple separate sections (e.g., cross-currency balance checks) to form a unified answer. |
-| **Category C** | Out-of-Context | Hallucination Resistance | Ensure the model outputs a deterministic Safe Refusal when queries fall outside the document scope (macroeconomics, external procedures). |
-| **Category D** | Adversarial & Boundary | Robustness & Guardrails | Stress-test the model with false presuppositions and strict boundary conditions (e.g., actions triggered at exactly 5:01 PM). |
+| **A** | In-Context Direct | Entity Extraction & Grounding | Verify exact retrieval of deadlines, interest day-counts (360/365), and addresses. |
+| **B** | In-Context Synthesis | Cross-Clause Reasoning | Validate if the model can link multiple separate sections (e.g., cross-currency balance checks) to form a unified answer. |
+| **C** | Out-of-Context | Hallucination Resistance | Ensure the model outputs a deterministic Safe Refusal when queries fall outside the document scope (macroeconomics, external procedures). |
+| **D** | Adversarial & Boundary | Robustness & Guardrails | Stress-test the model with false presuppositions and strict boundary conditions (e.g., actions triggered at exactly 5:01 PM). |
 
 ---
 
