@@ -2,7 +2,7 @@
 
 # automated-rag-qa-framework
 
-[![QA - RAG Evaluation](https://img.shields.io/badge/QA-RAG%20Evaluation-blue.svg)](#)
+[![QA - RAG Evaluation](https://img.shields.io/badge/QA-RAG%20Evaluation-white.svg)](#)
 [![Testing Framework - Black Box](https://img.shields.io/badge/Methodology-Black%20Box%20%26%20Boundary-orange.svg)](#)
 [![Status - Production Ready](https://img.shields.io/badge/Status-Completed-green.svg)](#)
 
