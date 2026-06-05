@@ -1,3 +1,5 @@
+![caption](https://github.com/mjaroszewski1979/rag_qa_project/blob/main/rag_qa_image.jpg)
+
 # automated-rag-qa-framework
 
 [![QA - RAG Evaluation](https://img.shields.io/badge/QA-RAG%20Evaluation-blue.svg)](#)
