@@ -1,6 +1,6 @@
 ![caption](https://github.com/mjaroszewski1979/rag_qa_project/blob/main/rag_qa_image.jpg)
 
-# automated-rag-qa-framework
+# Automated RAG QA Framework
 
 [![QA - RAG Evaluation](https://img.shields.io/badge/QA-RAG%20Evaluation-white.svg)](#)
 [![Testing Framework - Black Box](https://img.shields.io/badge/Methodology-Black%20Box%20%26%20Boundary-white.svg)](#)
