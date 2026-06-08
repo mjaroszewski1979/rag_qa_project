@@ -8,7 +8,7 @@
 
 A comprehensive, production-grade Quality Assurance benchmark suite designed to evaluate the factual accuracy, synthesis capabilities, and hallucination resistance of Retrieval-Augmented Generation (RAG) systems. 
 
-This framework utilizes banking documentation (**HSBC Standard Terms and Conditions / Promo Account Regulations 2026**) as the Single Source of Truth to stress-test large language models (LLMs) deployed via NotebookLM (Gemini 1.5 Pro).
+This framework utilizes banking documentation (**HSBC Standard Terms and Conditions / Promo Account Regulations 2022**) as the Single Source of Truth to stress-test large language models (LLMs) deployed via NotebookLM (Gemini 1.5 Pro).
 
 ---
 
