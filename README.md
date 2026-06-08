@@ -27,7 +27,7 @@ This project establishes a structured **Gold Dataset** (benchmark database) acro
 ```text
 my-rag-qa-project/
 ├── data/
-│   └── Konto_Promocyjne_Regulamin_2026.pdf   # Source Document (Single Source of Truth)
+│   └── standard-terms-and-conditions-english-ver-nov-2022.pdf   # Source Document (Single Source of Truth)
 ├── test-suites/
 │   ├── Cat_A_In_Context_Direct.csv           # Direct, factual retrieval test cases
 │   ├── Cat_B_In_Context_Synthesis.csv        # Multi-clause logical connection cases
